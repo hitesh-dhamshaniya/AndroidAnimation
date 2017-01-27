@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AllAboutAnimation</string>
+    <array name="animation">
+        <item>Alpha</item>
+        <item>Rotate</item>
+        <item>Scale</item>
+        <item>Translate</item>
+    </array>
 </resources>
